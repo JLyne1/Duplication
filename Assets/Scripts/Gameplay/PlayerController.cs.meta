@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 798d9c4c0b0bd7e4bb23dfa3c968607e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scriptableClip: {fileID: 7400000, guid: c2337c8799531834aa1e3827ffdeef25, type: 2}
+  - clonePlayerPrefab: {fileID: 51982521443092857, guid: f728674d397840544a789efaa2a178d0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
